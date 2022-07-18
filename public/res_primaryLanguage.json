@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Austin Limanek. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "Software Developer based in Bellingham, WA. I received both my B.S. in physics and B.A. in Economics/Mathematics from  Western Washington University.While completing my studies, I research organic solar cells in the physics department in the lab of Dr. Leger. I have tutored mathematics, physics, biology, chemistry, and history.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,53 +11,53 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Cloud Ten",
+        "startDate": "2022",
+        "description": "A site created for my Code Fellows 201 final, written in only vanilla html, css, and javascript. The user can user a calendar to organize their tasks and events. Information input by the user is persisted in local storage. I was the head developer for the calendar feature. In addition, I contributed ideas for branding, the general desired feel of the site, and I was the senior presenter of our final project.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/cloudtenhome.png",
+          "images/cloudtencal.png"
         ],
-        "url": "",
+        "url": "https://lucy-gelderloos.github.io/Cloud-Ten/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "html 5"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Solar cell research",
+        "startDate": "2013",
+        "description": "I research organic solar cells based on polymerizable ionic liquid. Over three years, I experimented, optimized, and tested different ionic solutions, testing regiments, and device architectures. I presented my finding at the American Physical Society March meeting in Baltimore, Maryland.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/architecture.png",
+          "images/ppv.png"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-matlab-original",
+            "name": "Matlab"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-excel-plain",
+            "name": "Excel"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Final project 301",
+        "startDate": "2022",
+        "description": "Another great project at Code Fellows",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
